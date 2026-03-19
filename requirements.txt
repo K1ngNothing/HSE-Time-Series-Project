@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tslearn
+plotly
+statsforecast
+utilsforecast
+catboost
+nbclient
+nbformat
