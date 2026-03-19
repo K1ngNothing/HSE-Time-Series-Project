@@ -68,7 +68,7 @@
 | AutoTheta     | 0.036586 |
 | Naive         | 0.050769 |
 | SeasonalNaive | 0.061119 |
-| **ClusterML** | **0.080177** |
+| **ClusterML** | **0.072825** |
 | **LocalML**   | **0.088672** |
 | **GlobalML**  | **0.097452** |
 
